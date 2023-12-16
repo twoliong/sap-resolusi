@@ -5,4 +5,5 @@ RENCANA PROJECT
   * Build Tools
     ^ Vite
 - Front-End Website
+  * E-Commerce
 - Landing Page
