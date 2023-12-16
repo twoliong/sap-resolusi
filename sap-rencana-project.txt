@@ -1,6 +1,9 @@
 RENCANA PROJECT
 - Personal Portofolio
   * Tech-Stack
+    ^ Vue
   * Build Tools
+    ^ Vite
 - Front-End Website
+  * E-Commerce
 - Landing Page
