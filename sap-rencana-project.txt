@@ -1,7 +1,6 @@
 RENCANA PROJECT
 - Personal Portofolio
-  * React
-  * TailwindCSS
-  * Vite
+  * Tech-Stack
+  * Build Tools
 - Front-End Website
 - Landing Page
