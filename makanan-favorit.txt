@@ -3,3 +3,7 @@ Makanan Favorit
 - Mie Goreng
 - Bakso
 - Mie Ayam
+
+Minuman Favorit
+- Es Teh
+- Es Kelapa
