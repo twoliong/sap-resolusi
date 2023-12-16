@@ -1,3 +1,6 @@
 RENCANA PROJECT
 - Personal Portofolio
+  * React
+  * TailwindCSS
+  * Vite
 - Landing Page
