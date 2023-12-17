@@ -2,6 +2,8 @@ RENCANA PROJECT
 - Personal Portofolio
   * Tech-Stack
     ^ React
+    ^ Vue
+    ^ Svelte
   * Build Tools
     ^ Vite
 - Front-End Website
